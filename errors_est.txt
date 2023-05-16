@@ -1,0 +1,152 @@
+<Response [400]>
+{'cnpj_cpf': '73808131', 'sequential': '0001', 'street_address': 'RUA LETICIA VASCONCELOS', 'number_address': '217', 'neighborhood_address': 'TRIANGULO', 'cep': '63040760', 'uf': 'CE', 'city_code': '07304', 'state_registration': '069301441', 'municipal_registration': '07304', 'is_headquarters': 'True', 'start_of_activities': None}
+{"non_field_errors":["Os campos cnpj_cpf, sequential devem criar um set único."]}
+
+<Response [400]>
+{'cnpj_cpf': '73808131', 'sequential': '0002', 'street_address': 'AVENIDA LEAO SAMPAIO', 'number_address': '2050', 'neighborhood_address': 'LAGOA SECA', 'cep': '63040000', 'uf': 'CE', 'city_code': '07304', 'state_registration': '069376204', 'municipal_registration': '07304', 'is_headquarters': 'True', 'start_of_activities': '1994-11-28'}
+{"non_field_errors":["Os campos cnpj_cpf, sequential devem criar um set único."]}
+
+<Response [400]>
+{'cnpj_cpf': '17125688', 'sequential': '0001', 'street_address': 'AV PADRE CICERO', 'number_address': '2813', 'neighborhood_address': 'MURITI', 'cep': '63132040', 'uf': 'CE', 'city_code': '04202', 'state_registration': '066245931', 'municipal_registration': '04202', 'is_headquarters': 'True', 'start_of_activities': '2012-11-06'}
+{"non_field_errors":["Os campos cnpj_cpf, sequential devem criar um set único."]}
+
+<Response [400]>
+{'cnpj_cpf': '17125688', 'sequential': '0001', 'street_address': 'AV PADRE CICERO', 'number_address': '2813', 'neighborhood_address': 'MURITI', 'cep': '63132040', 'uf': 'CE', 'city_code': '04202', 'state_registration': '066245931', 'municipal_registration': '04202', 'is_headquarters': 'True', 'start_of_activities': '2012-11-06'}
+{"non_field_errors":["Os campos cnpj_cpf, sequential devem criar um set único."]}
+
+<Response [400]>
+{'cnpj_cpf': '73808131', 'sequential': '0001', 'street_address': 'RUA LETICIA VASCONCELOS', 'number_address': '217', 'neighborhood_address': 'TRIANGULO', 'cep': '63040760', 'uf': 'CE', 'city_code': '07304', 'state_registration': '069301441', 'municipal_registration': '07304', 'is_headquarters': 'True', 'start_of_activities': None}
+{"non_field_errors":["Os campos cnpj_cpf, sequential devem criar um set único."]}
+
+<Response [400]>
+{'cnpj_cpf': '73808131', 'sequential': '0002', 'street_address': 'AVENIDA LEAO SAMPAIO', 'number_address': '2050', 'neighborhood_address': 'LAGOA SECA', 'cep': '63040000', 'uf': 'CE', 'city_code': '07304', 'state_registration': '069376204', 'municipal_registration': '07304', 'is_headquarters': 'True', 'start_of_activities': '1994-11-28'}
+{"non_field_errors":["Os campos cnpj_cpf, sequential devem criar um set único."]}
+
+<Response [400]>
+{'cnpj_cpf': '29123328', 'sequential': '0001', 'street_address': 'R PADRE CICERO', 'number_address': '946', 'neighborhood_address': 'SALESIANOS', 'cep': '63050208', 'uf': 'CE', 'city_code': '07304', 'state_registration': '067392121', 'municipal_registration': '07304', 'is_headquarters': 'True', 'start_of_activities': None}
+{"non_field_errors":["Os campos cnpj_cpf, sequential devem criar um set único."]}
+
+<Response [400]>
+{'cnpj_cpf': '29123328', 'sequential': '0001', 'street_address': 'R PADRE CICERO', 'number_address': '946', 'neighborhood_address': 'SALESIANOS', 'cep': '63050208', 'uf': 'CE', 'city_code': '07304', 'state_registration': '067392121', 'municipal_registration': '07304', 'is_headquarters': 'True', 'start_of_activities': None}
+{"non_field_errors":["Os campos cnpj_cpf, sequential devem criar um set único."]}
+
+<Response [400]>
+{'cnpj_cpf': '15753280', 'sequential': '0001', 'street_address': 'AV CARNEIRO DE MENDONCA', 'number_address': '658', 'neighborhood_address': 'DEMOCRITO ROCHA', 'cep': '60440164', 'uf': 'CE', 'city_code': '04400', 'state_registration': '066595452', 'municipal_registration': '04400', 'is_headquarters': 'True', 'start_of_activities': '2012-06-21'}
+{"non_field_errors":["Os campos cnpj_cpf, sequential devem criar um set único."]}
+
+<Response [400]>
+{'cnpj_cpf': '15770396', 'sequential': '0001', 'street_address': 'R SAO PEDRO ', 'number_address': '1931', 'neighborhood_address': 'SALESIANOS', 'cep': '63050270', 'uf': 'CE', 'city_code': '07304', 'state_registration': '066067014', 'municipal_registration': '07304', 'is_headquarters': 'True', 'start_of_activities': '2012-06-15'}
+{"non_field_errors":["Os campos cnpj_cpf, sequential devem criar um set único."]}
+
+<Response [400]>
+{'cnpj_cpf': '15770396', 'sequential': '0002', 'street_address': 'RUA DEZOITO DO FORTE', 'number_address': '155', 'neighborhood_address': 'SANTO ANTONIO', 'cep': '58701045', 'uf': 'PB', 'city_code': '10808', 'state_registration': '162757506', 'municipal_registration': '10808', 'is_headquarters': 'True', 'start_of_activities': '2016-05-30'}
+{"non_field_errors":["Os campos cnpj_cpf, sequential devem criar um set único."]}
+
+<Response [400]>
+{'cnpj_cpf': '15770396', 'sequential': '0001', 'street_address': 'R SAO PEDRO ', 'number_address': '1931', 'neighborhood_address': 'SALESIANOS', 'cep': '63050270', 'uf': 'CE', 'city_code': '07304', 'state_registration': '066067014', 'municipal_registration': '07304', 'is_headquarters': 'True', 'start_of_activities': '2012-06-15'}
+{"non_field_errors":["Os campos cnpj_cpf, sequential devem criar um set único."]}
+
+<Response [400]>
+{'cnpj_cpf': '15770396', 'sequential': '0002', 'street_address': 'RUA DEZOITO DO FORTE', 'number_address': '155', 'neighborhood_address': 'SANTO ANTONIO', 'cep': '58701045', 'uf': 'PB', 'city_code': '10808', 'state_registration': '162757506', 'municipal_registration': '10808', 'is_headquarters': 'True', 'start_of_activities': '2016-05-30'}
+{"non_field_errors":["Os campos cnpj_cpf, sequential devem criar um set único."]}
+
+<Response [400]>
+{'cnpj_cpf': '29123328', 'sequential': '0002', 'street_address': 'R SENADOR POMPEU', 'number_address': '420', 'neighborhood_address': 'CENTRO', 'cep': '58900000', 'uf': 'CE', 'city_code': '04202', 'state_registration': '061478806', 'municipal_registration': '04202', 'is_headquarters': 'True', 'start_of_activities': '2020-03-06'}
+{"non_field_errors":["Os campos cnpj_cpf, sequential devem criar um set único."]}
+
+<Response [400]>
+{'cnpj_cpf': '07027378', 'sequential': '0001', 'street_address': 'AV PLACIDO ADERALDO CASTELO', 'number_address': 'SN', 'neighborhood_address': 'LAGOA SECA', 'cep': '63040540', 'uf': 'CE', 'city_code': '07304', 'state_registration': '069545022', 'municipal_registration': '07304', 'is_headquarters': 'True', 'start_of_activities': '1996-12-14'}
+{"non_field_errors":["Os campos cnpj_cpf, sequential devem criar um set único."]}
+
+<Response [400]>
+{'cnpj_cpf': '15770396', 'sequential': '0001', 'street_address': 'RUA SAO PEDRO', 'number_address': '1931', 'neighborhood_address': 'CENTRO', 'cep': '63050270', 'uf': 'CE', 'city_code': '07304', 'state_registration': '066067014', 'municipal_registration': '07304', 'is_headquarters': 'True', 'start_of_activities': None}
+{"non_field_errors":["Os campos cnpj_cpf, sequential devem criar um set único."]}
+
+<Response [400]>
+{'cnpj_cpf': '31910567', 'sequential': '0001', 'street_address': 'AVE. PRESIDENTE CASTELO BRANCO', 'number_address': '501', 'neighborhood_address': 'ROMEIRAO', 'cep': '63050480', 'uf': 'CE', 'city_code': '07304', 'state_registration': '067859992', 'municipal_registration': '07304', 'is_headquarters': 'True', 'start_of_activities': '2018-10-31'}
+{"non_field_errors":["Os campos cnpj_cpf, sequential devem criar um set único."]}
+
+<Response [400]>
+{'cnpj_cpf': '07027378', 'sequential': '0001', 'street_address': 'Av Placido Aderaldo Castelo', 'number_address': '1500', 'neighborhood_address': 'Lagoa Seca', 'cep': '63040540', 'uf': 'CE', 'city_code': '07304', 'state_registration': '069545022', 'municipal_registration': '07304', 'is_headquarters': 'True', 'start_of_activities': '1996-12-14'}
+{"non_field_errors":["Os campos cnpj_cpf, sequential devem criar um set único."]}
+
+<Response [400]>
+{'cnpj_cpf': '07027378', 'sequential': '0001', 'street_address': 'Av Placido Aderaldo Castelo', 'number_address': '1500', 'neighborhood_address': 'Lagoa Seca', 'cep': '63040540', 'uf': 'CE', 'city_code': '07304', 'state_registration': '069545022', 'municipal_registration': '07304', 'is_headquarters': 'True', 'start_of_activities': '1996-12-14'}
+{"non_field_errors":["Os campos cnpj_cpf, sequential devem criar um set único."]}
+
+<Response [400]>
+{'cnpj_cpf': '13638939', 'sequential': '0001', 'street_address': 'AV PRESIDENTE CASTELO BRANCO', 'number_address': '1312', 'neighborhood_address': 'PIRAJA', 'cep': '63034112', 'uf': 'CE', 'city_code': '07304', 'state_registration': '065626257', 'municipal_registration': '07304', 'is_headquarters': 'True', 'start_of_activities': None}
+{"non_field_errors":["Os campos cnpj_cpf, sequential devem criar um set único."]}
+
+<Response [400]>
+{'cnpj_cpf': '13638939', 'sequential': '0002', 'street_address': 'AV RADIALISTA COELHO ALVES', 'number_address': '790', 'neighborhood_address': 'TIRADENTES', 'cep': '63031185', 'uf': 'CE', 'city_code': '07304', 'state_registration': '065240367', 'municipal_registration': '07304', 'is_headquarters': 'True', 'start_of_activities': None}
+{"non_field_errors":["Os campos cnpj_cpf, sequential devem criar um set único."]}
+
+<Response [400]>
+{'cnpj_cpf': '08688090', 'sequential': '0001', 'street_address': 'AV PADRE CICERO', 'number_address': '2135', 'neighborhood_address': 'SALESIANOS', 'cep': '63010020', 'uf': 'CE', 'city_code': '07304', 'state_registration': '062063731', 'municipal_registration': '07304', 'is_headquarters': 'True', 'start_of_activities': '2007-03-09'}
+{"non_field_errors":["Os campos cnpj_cpf, sequential devem criar um set único."]}
+
+<Response [400]>
+{'cnpj_cpf': '17125688', 'sequential': '0001', 'street_address': 'AV PADRE CICERO', 'number_address': '2813', 'neighborhood_address': 'muriti', 'cep': '63132015', 'uf': 'CE', 'city_code': '04202', 'state_registration': '066245931', 'municipal_registration': '04202', 'is_headquarters': 'True', 'start_of_activities': None}
+{"non_field_errors":["Os campos cnpj_cpf, sequential devem criar um set único."]}
+
+<Response [400]>
+{'cnpj_cpf': '23053109', 'sequential': '0001', 'street_address': 'RUA DR. LUCIANO TORRES DE MELO', 'number_address': '295', 'neighborhood_address': 'JARDIM GONZAGA', 'cep': '63046320', 'uf': 'CE', 'city_code': '07304', 'state_registration': '064684016', 'municipal_registration': '07304', 'is_headquarters': 'True', 'start_of_activities': '2015-08-12'}
+{"non_field_errors":["Os campos cnpj_cpf, sequential devem criar um set único."]}
+
+<Response [400]>
+{'cnpj_cpf': '23053109', 'sequential': '0002', 'street_address': 'RUA FRANCISCO SAMUEL SARAIVA', 'number_address': '114', 'neighborhood_address': 'PEDRINHAS', 'cep': '63018330', 'uf': 'CE', 'city_code': '07304', 'state_registration': '067414885', 'municipal_registration': '07304', 'is_headquarters': 'True', 'start_of_activities': '2018-01-08'}
+{"non_field_errors":["Os campos cnpj_cpf, sequential devem criar um set único."]}
+
+<Response [400]>
+{'cnpj_cpf': '30329943', 'sequential': '0001', 'street_address': 'Rua Francisco Martins de Souza', 'number_address': '210', 'neighborhood_address': 'Jardim Gonzaga', 'cep': '63046510', 'uf': 'CE', 'city_code': '07304', 'state_registration': None, 'municipal_registration': '07304', 'is_headquarters': 'True', 'start_of_activities': None}
+{"non_field_errors":["Os campos cnpj_cpf, sequential devem criar um set único."]}
+
+<Response [400]>
+{'cnpj_cpf': '15770396', 'sequential': '0001', 'street_address': 'R SAO PEDRO', 'number_address': '1931', 'neighborhood_address': 'SALESIANOS', 'cep': '63050270', 'uf': 'CE', 'city_code': '07304', 'state_registration': '066067014', 'municipal_registration': '07304', 'is_headquarters': 'True', 'start_of_activities': '2012-06-14'}
+{"non_field_errors":["Os campos cnpj_cpf, sequential devem criar um set único."]}
+
+<Response [400]>
+{'cnpj_cpf': '29123328', 'sequential': '0002', 'street_address': 'R SENADOR POMPEU', 'number_address': '420', 'neighborhood_address': 'CENTRO', 'cep': '63100080', 'uf': 'CE', 'city_code': '04202', 'state_registration': None, 'municipal_registration': '04202', 'is_headquarters': 'True', 'start_of_activities': '2020-03-06'}
+{"non_field_errors":["Os campos cnpj_cpf, sequential devem criar um set único."]}
+
+<Response [400]>
+{'cnpj_cpf': '13691071', 'sequential': '0001', 'street_address': 'RUA FREI DAMIAO', 'number_address': '393', 'neighborhood_address': 'LAGOA SECA', 'cep': '63040640', 'uf': 'CE', 'city_code': '07304', 'state_registration': None, 'municipal_registration': '07304', 'is_headquarters': 'True', 'start_of_activities': None}
+{"non_field_errors":["Os campos cnpj_cpf, sequential devem criar um set único."]}
+
+<Response [400]>
+{'cnpj_cpf': '23053109', 'sequential': '0001', 'street_address': 'R DOUTOR LUCIANO TORRES DE MELO', 'number_address': '295', 'neighborhood_address': 'JARDIM GONZAGA', 'cep': '63046320', 'uf': 'CE', 'city_code': '07304', 'state_registration': None, 'municipal_registration': '07304', 'is_headquarters': 'True', 'start_of_activities': '2015-08-12'}
+{"non_field_errors":["Os campos cnpj_cpf, sequential devem criar um set único."]}
+
+<Response [400]>
+{'cnpj_cpf': '23053109', 'sequential': '0002', 'street_address': 'R FRANCISCO SAMUEL SARAIVA', 'number_address': '114', 'neighborhood_address': 'PEDRINHAS', 'cep': '63018330', 'uf': 'CE', 'city_code': '07304', 'state_registration': None, 'municipal_registration': '07304', 'is_headquarters': 'True', 'start_of_activities': '2017-10-09'}
+{"non_field_errors":["Os campos cnpj_cpf, sequential devem criar um set único."]}
+
+<Response [400]>
+{'cnpj_cpf': '34623505', 'sequential': '0001', 'street_address': 'R PADRE CICERO', 'number_address': '1248', 'neighborhood_address': 'CENTRO', 'cep': '63010021', 'uf': 'CE', 'city_code': '07304', 'state_registration': '062967436', 'municipal_registration': '07304', 'is_headquarters': 'True', 'start_of_activities': None}
+{"non_field_errors":["Os campos cnpj_cpf, sequential devem criar um set único."]}
+
+<Response [400]>
+{'cnpj_cpf': '34623505', 'sequential': '0002', 'street_address': 'AV AILTON GOMES DE ALENCAR', 'number_address': '3513', 'neighborhood_address': 'PLANALTO', 'cep': '63047165', 'uf': 'CE', 'city_code': '07304', 'state_registration': '062961381', 'municipal_registration': '07304', 'is_headquarters': 'True', 'start_of_activities': None}
+{"non_field_errors":["Os campos cnpj_cpf, sequential devem criar um set único."]}
+
+<Response [400]>
+{'cnpj_cpf': '34623505', 'sequential': '0001', 'street_address': 'RUA PADRE CICERO ', 'number_address': '1248', 'neighborhood_address': 'CENTRO', 'cep': '63010021', 'uf': 'CE', 'city_code': '07304', 'state_registration': '62967436', 'municipal_registration': '07304', 'is_headquarters': 'True', 'start_of_activities': '2019-08-22'}
+{"non_field_errors":["Os campos cnpj_cpf, sequential devem criar um set único."]}
+
+<Response [400]>
+{'cnpj_cpf': '34623505', 'sequential': '0002', 'street_address': 'AV AILTON GOMES DE ALENCAR ', 'number_address': '3513', 'neighborhood_address': 'PLANALTO', 'cep': '63047165', 'uf': 'CE', 'city_code': '07304', 'state_registration': '062961381', 'municipal_registration': '07304', 'is_headquarters': 'True', 'start_of_activities': None}
+{"non_field_errors":["Os campos cnpj_cpf, sequential devem criar um set único."]}
+
+<Response [400]>
+{'cnpj_cpf': '46977965', 'sequential': '0001', 'street_address': 'RUA SANTA LUZIA', 'number_address': '1732', 'neighborhood_address': 'SAO MIGUEL', 'cep': '63010459', 'uf': 'CE', 'city_code': '07304', 'state_registration': None, 'municipal_registration': '07304', 'is_headquarters': 'True', 'start_of_activities': None}
+{"non_field_errors":["Os campos cnpj_cpf, sequential devem criar um set único."]}
+
+<Response [400]>
+{'cnpj_cpf': '00000000', 'sequential': '0001', 'street_address': 'AV VIRGILIO TAVORA', 'number_address': '11', 'neighborhood_address': 'VILA FATIMA', 'cep': '63020735', 'uf': 'CE', 'city_code': '07304', 'state_registration': None, 'municipal_registration': '07304', 'is_headquarters': 'True', 'start_of_activities': None}
+{"non_field_errors":["Os campos cnpj_cpf, sequential devem criar um set único."]}
+
+<Response [400]>
+{'cnpj_cpf': '41427260', 'sequential': '0001', 'street_address': 'AV AGENOR ARAUJO', 'number_address': '516', 'neighborhood_address': 'CENTRO', 'cep': '63500113', 'uf': 'CE', 'city_code': '05506', 'state_registration': None, 'municipal_registration': '05506', 'is_headquarters': 'True', 'start_of_activities': None}
+{"non_field_errors":["Os campos cnpj_cpf, sequential devem criar um set único."]}
+
