@@ -1,13 +1,5 @@
 <Response [400]>
-{'cnpj_cpf': '07027378', 'corporate_name': 'VERDE VALE HOTEL S.A', 'fantasy_name': 'VERDE VALE HOTEL S.A', 'start_of_activities': '1982-08-09 00:00:00.0000', 'is_mei': 'False', 'is_simple_optant': 'False', 'is_activated': 'True'}
-{"cnpj_cpf":["companies com este cnpj cpf já existe."]}
-
-<Response [400]>
 {'cnpj_cpf': '41427260', 'corporate_name': 'R A DA SILVA SOBRINHO ME', 'fantasy_name': 'INFINITY PROMOCOES DE VENDAS', 'start_of_activities': '2021-04-01 00:00:00.0000', 'is_mei': 'False', 'is_simple_optant': 'False', 'is_activated': 'True'}
-{"cnpj_cpf":["companies com este cnpj cpf já existe."]}
-
-<Response [400]>
-{'cnpj_cpf': '23053109', 'corporate_name': 'P.F. COMERCIAL DE GLP EIRELI', 'fantasy_name': 'P. F. DISTRIBUIDORA DE GLP', 'start_of_activities': '2015-08-12 00:00:00.0000', 'is_mei': 'False', 'is_simple_optant': 'False', 'is_activated': 'True'}
 {"cnpj_cpf":["companies com este cnpj cpf já existe."]}
 
 <Response [400]>
@@ -23,10 +15,6 @@
 {"cnpj_cpf":["companies com este cnpj cpf já existe."]}
 
 <Response [400]>
-{'cnpj_cpf': '30329943', 'corporate_name': 'IGREJA EVANGELICA CASA DE ORACAO PARA TODOS OS POVOS', 'fantasy_name': 'CASA DE ORACAO', 'start_of_activities': '2018-04-30 00:00:00.0000', 'is_mei': 'False', 'is_simple_optant': 'False', 'is_activated': 'True'}
-{"cnpj_cpf":["companies com este cnpj cpf já existe."]}
-
-<Response [400]>
 {'cnpj_cpf': '30329943', 'corporate_name': 'IGREJA EVANGELICA CASA DE ORACAO PARA TODOS OS POVOS', 'fantasy_name': 'CASA DE ORACAO', 'start_of_activities': '2018-04-30 00:00:00.0000', 'is_mei': 'False', 'is_simple_optant': 'False', 'is_activated': 'False'}
 {"cnpj_cpf":["companies com este cnpj cpf já existe."]}
 
@@ -36,10 +24,6 @@
 
 <Response [400]>
 {'cnpj_cpf': '73808131', 'corporate_name': 'COMERCIAL ALENCAR DISTRIBUIDORA DE LUBRIFICANTES LTDA', 'fantasy_name': 'CASARAO DO OLEO', 'start_of_activities': '1993-12-29 00:00:00.0000', 'is_mei': 'False', 'is_simple_optant': 'False', 'is_activated': 'True'}
-{"cnpj_cpf":["companies com este cnpj cpf já existe."]}
-
-<Response [400]>
-{'cnpj_cpf': '16980395', 'corporate_name': 'SOLUE CONSULTORIA ESTUDOS E QUALIFICACAO PROFISSIONAL LTDA', 'fantasy_name': 'SOLUE CONSULTORIA', 'start_of_activities': '2012-10-09 00:00:00.0000', 'is_mei': 'False', 'is_simple_optant': 'False', 'is_activated': 'False'}
 {"cnpj_cpf":["companies com este cnpj cpf já existe."]}
 
 <Response [400]>
@@ -83,14 +67,6 @@
 {"cnpj_cpf":["companies com este cnpj cpf já existe."]}
 
 <Response [400]>
-{'cnpj_cpf': '24082585', 'corporate_name': 'J E LANDIM JUNIOR', 'fantasy_name': 'LOJAS TOP 6', 'start_of_activities': '', 'is_mei': 'False', 'is_simple_optant': 'False', 'is_activated': 'False'}
-{"cnpj_cpf":["companies com este cnpj cpf já existe."]}
-
-<Response [400]>
-{'cnpj_cpf': '26963752', 'corporate_name': 'LUIZ F DE OLIVEIRA', 'fantasy_name': 'LUIZ F DE OLIVEIRA', 'start_of_activities': '', 'is_mei': 'False', 'is_simple_optant': 'False', 'is_activated': 'False'}
-{"cnpj_cpf":["companies com este cnpj cpf já existe."]}
-
-<Response [400]>
 {'cnpj_cpf': '07027378', 'corporate_name': 'VERDE VALE HOTEL SA', 'fantasy_name': 'VERDES VALES LAZER HOTEL', 'start_of_activities': '', 'is_mei': 'False', 'is_simple_optant': 'False', 'is_activated': 'False'}
 {"cnpj_cpf":["companies com este cnpj cpf já existe."]}
 
@@ -104,14 +80,6 @@
 
 <Response [400]>
 {'cnpj_cpf': '07027378', 'corporate_name': 'VERDE VALE HOTEL S/A', 'fantasy_name': 'VERDES VALES', 'start_of_activities': '', 'is_mei': 'False', 'is_simple_optant': 'False', 'is_activated': 'True'}
-{"cnpj_cpf":["companies com este cnpj cpf já existe."]}
-
-<Response [400]>
-{'cnpj_cpf': '33779852', 'corporate_name': 'MOVIMENTO CEARA LIVRE', 'fantasy_name': 'MOVIMENTO CEARA LIVRE', 'start_of_activities': '', 'is_mei': 'False', 'is_simple_optant': 'False', 'is_activated': 'False'}
-{"cnpj_cpf":["companies com este cnpj cpf já existe."]}
-
-<Response [400]>
-{'cnpj_cpf': '34049264', 'corporate_name': 'D R DOS SANTOS VARIEDADES', 'fantasy_name': 'D R DOS SANTOS VARIEDADES', 'start_of_activities': '', 'is_mei': 'False', 'is_simple_optant': 'False', 'is_activated': 'False'}
 {"cnpj_cpf":["companies com este cnpj cpf já existe."]}
 
 <Response [400]>
@@ -131,30 +99,10 @@
 {"cnpj_cpf":["companies com este cnpj cpf já existe."]}
 
 <Response [400]>
-{'cnpj_cpf': '19018912', 'corporate_name': 'LIMA DIAZ E ASSOCIADOS CONSULTORIA E TREINAMENTOS LTDA', 'fantasy_name': 'LD CONSULTORIA E TREINAMENTOS', 'start_of_activities': '', 'is_mei': 'False', 'is_simple_optant': 'False', 'is_activated': 'False'}
-{"cnpj_cpf":["companies com este cnpj cpf já existe."]}
-
-<Response [400]>
-{'cnpj_cpf': '33645506', 'corporate_name': 'COOPERATIVA DE PROD. COM. AGRIC. FAMI.  PROD. RUR. CARIRI', 'fantasy_name': 'COOPERATIVA CARIRI', 'start_of_activities': '', 'is_mei': 'False', 'is_simple_optant': 'False', 'is_activated': 'False'}
-{"cnpj_cpf":["companies com este cnpj cpf já existe."]}
-
-<Response [400]>
 {'cnpj_cpf': '00000000', 'corporate_name': 'EMPRESA MODELO', 'fantasy_name': 'EMPRESA MODELO', 'start_of_activities': '', 'is_mei': 'False', 'is_simple_optant': 'True', 'is_activated': 'True'}
 {"cnpj_cpf":["companies com este cnpj cpf já existe."]}
 
 <Response [400]>
 {'cnpj_cpf': '31910567', 'corporate_name': 'CRAZY JUA ALIMENTOS EIRELI', 'fantasy_name': 'CRAZY TASTE', 'start_of_activities': '', 'is_mei': 'False', 'is_simple_optant': 'True', 'is_activated': 'True'}
-{"cnpj_cpf":["companies com este cnpj cpf já existe."]}
-
-<Response [400]>
-{'cnpj_cpf': '42596009315', 'corporate_name': 'THARSIS CIDALIA DE SA BARRETO DIAZ ALENCAR', 'fantasy_name': 'THARSIS CIDALIA DE SA BARRETO DIAZ ALENCAR', 'start_of_activities': '', 'is_mei': 'False', 'is_simple_optant': 'False', 'is_activated': 'False'}
-{"cnpj_cpf":["companies com este cnpj cpf já existe."]}
-
-<Response [400]>
-{'cnpj_cpf': '04333801443', 'corporate_name': 'DIOGO ALEXANDRE FERREIRA DE ALENCAR', 'fantasy_name': 'DIOGO ALEXANDRE FERREIRA DE ALENCAR', 'start_of_activities': '', 'is_mei': 'False', 'is_simple_optant': 'False', 'is_activated': 'False'}
-{"cnpj_cpf":["companies com este cnpj cpf já existe."]}
-
-<Response [400]>
-{'cnpj_cpf': '24920932391', 'corporate_name': 'CECILIA MARIA RIBEIRO HONORIO', 'fantasy_name': 'CECILIA MARIA RIBEIRO HONORIO', 'start_of_activities': '', 'is_mei': 'False', 'is_simple_optant': 'False', 'is_activated': 'False'}
 {"cnpj_cpf":["companies com este cnpj cpf já existe."]}
 

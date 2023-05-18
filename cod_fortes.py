@@ -34,7 +34,7 @@ df = pd.read_sql(sql, db.con)
 for i, cnpj in enumerate(df['CNPJ_CPF']):
     cod_fortes = df.loc[i, 'CODIGOS_FORTES']
     if cod_fortes_is_unique(cod_fortes):
-        url = "http://192.168.1.54:8089/companies/cod/"
+        url = "http://localhost:8000/companies/cod/"
         values = {
             "cpf_cnpj": cnpj,
             "cod_pessoal": cod_fortes,

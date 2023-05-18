@@ -33,7 +33,7 @@ df['START_OF_ACTIVITIES'] = df['START_OF_ACTIVITIES'].astype(str)
 df = df.replace('NaT', None)
 
 for i, cnpj in enumerate(df['CNPJ_CPF']):
-    url = "http://192.168.1.54:8089/companies/establishments/"
+    url = "http://localhost:8000/companies/establishments/"
     values = {
         'cnpj_cpf': df.loc[i, 'CNPJ_CPF'],
         'sequential': df.loc[i, 'SEQUENTIAL'],

@@ -71,7 +71,7 @@ df['IS_ACTIVATED'] = df['IS_ACTIVATED'].astype(str).str.strip()
 
 
 for i, company in enumerate(df['CNPJ_CPF']):
-    url = "http://192.168.1.54:8089/companies/companies/"
+    url = "http://localhost:8000/companies/companies/"
     headers = {'Content-Type': 'application/json'}
     values = {
         "cnpj_cpf": df.loc[i, 'CNPJ_CPF'],
